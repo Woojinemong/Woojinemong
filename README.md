@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @woojinemong
-- 👀 I’m interested in prgramming!
+- 👀 I’m interested in programming!
 - 🌱 I’m currently learning computer science and mathematics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
